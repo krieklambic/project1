@@ -6,4 +6,4 @@ Voici le contenu du chapitre 1
 
 ## Chapitre 2
 
-un autre contenu
+voici le contenu du chapitre 2
